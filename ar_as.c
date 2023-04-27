@@ -9,6 +9,11 @@ int main()
     printf("Fibonacci Series: ");
 
    /* for (i = 1; i <= n; ++i)
+
+    {
+       
+        nextTerm = t1 + t2;
+        t1 = t2;
     }*/
     return 0;
 }
